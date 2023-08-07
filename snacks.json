@@ -1,0 +1,50 @@
+[
+    {
+        "snack_id": 1,
+        "name": "Chips",
+        "price": 1.5,
+        "availability": true
+    },
+    {
+        "snack_id": 2,
+        "name": "Chocolate",
+        "price": 2.0,
+        "availability": false
+    },
+    {
+        "snack_id": 3,
+        "name": "Soda",
+        "price": 1.0,
+        "availability": true
+    },
+    {
+        "snack_id": 4,
+        "name": "Cookies",
+        "price": 1.2,
+        "availability": false
+    },
+    {
+        "snack_id": 6,
+        "name": "Biriyani",
+        "price": 220,
+        "availability": false
+    },
+    {
+        "snack_id": 7,
+        "name": "Burger",
+        "price": 120,
+        "availability": true
+    },
+    {
+        "snack_id": 9,
+        "name": "Samosaa",
+        "price": 30,
+        "availability": true
+    },
+    {
+        "snack_id": 10,
+        "name": "Idli",
+        "price": 150,
+        "availability": false
+    }
+]
